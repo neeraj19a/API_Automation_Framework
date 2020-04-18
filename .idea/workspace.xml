@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4919628f-b218-4e8c-9bda-77e12e9f892f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.3.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4JMmhj7xZfFVDnsXlzMyU2V0q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/testReport" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\T460\Downloads\APIAutomationFrameworkAdvance\src\main\resources\configs" />
+      <recent name="C:\Users\T460\Downloads\APIAutomationFrameworkAdvance\src\main\resources" />
+      <recent name="C:\Users\T460\Downloads\APIAutomationFramework Advance\src\main\resources" />
+      <recent name="C:\Users\T460\Downloads\APIAutomationFramework\src\test\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Utilities" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\T460\Downloads\APIAutomationFrameworkAdvance\src\main\testReport" />
+      <recent name="C:\Users\T460\Downloads\APIAutomationFrameworkAdvance\src\main\java" />
+      <recent name="C:\Users\T460\Downloads\APIAutomationFrameworkAdvance\src" />
+      <recent name="C:\Users\T460\Downloads\APIAutomationFramework Advance\src\test\java\features" />
+      <recent name="C:\Users\T460\Downloads\APIAutomationFramework\src\test\java\features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCases.postPutGetopration">
+    <configuration name="Scenario: Verify One Author of the Post" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/GetPost.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="APIAutomationFramework" />
+      <option name="NAME_FILTER" value="^Verify One Author of the Post$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify One Author of the Post$&quot;" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify One Author of the Post" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFrameworkAdvance" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <option name="PACKAGE_NAME" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="steps.RunCucumberTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/T460/Downloads/APIAutomationFramework Advance/src/test/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFrameworkAdvance" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCucumberTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFrameworkAdvance" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="steps.RunCucumberTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.postPutGetopration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFrameworkAdvance" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="METHOD_NAME" value="postPutGetopration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.testing" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFrameworkAdvance" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCases" />
+      <option name="METHOD_NAME" value="testing" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: Verify One Author of the Post" />
+      <item itemvalue="JUnit.RunCucumberTest" />
+      <item itemvalue="TestNG.C:/Users/T460/Downloads/APIAutomationFramework Advance/src/test/TestNG.xml" />
+      <item itemvalue="TestNG.RunCucumberTest" />
+      <item itemvalue="TestNG.TestCases.testing" />
+      <item itemvalue="TestNG.TestCases.postPutGetopration" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCases.postPutGetopration" />
+        <item itemvalue="TestNG.C:/Users/T460/Downloads/APIAutomationFramework Advance/src/test/TestNG.xml" />
+        <item itemvalue="TestNG.TestCases.testing" />
+        <item itemvalue="TestNG.RunCucumberTest" />
+        <item itemvalue="JUnit.RunCucumberTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4919628f-b218-4e8c-9bda-77e12e9f892f" name="Default Changelist" comment="" />
+      <created>1585988886843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585988886843</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="286" y="38" key="#RunCucumberTest" timestamp="1586611388854">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="286" y="38" key="#RunCucumberTest/0.0.1366.738@0.0.1366.738" timestamp="1586611388854" />
+    <state x="409" y="50" key="#Scenario:_Verify_One_Author_of_the_Post" timestamp="1585993705727">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="409" y="50" key="#Scenario:_Verify_One_Author_of_the_Post/0.0.1366.738@0.0.1366.738" timestamp="1585993705727" />
+    <state x="137" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586617385511">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1586617385511" />
+    <state x="426" y="180" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585991726026">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="426" y="180" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1585991726026" />
+    <state x="488" y="63" key="#com.intellij.ide.util.MemberChooser" timestamp="1586673646902">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="63" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1586673646902" />
+    <state x="412" y="160" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586613083354">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="412" y="160" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1586613083354" />
+    <state x="413" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586677697415">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1586677697415" />
+    <state x="626" y="158" key="#xdebugger.evaluate" timestamp="1586610112340">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="626" y="158" key="#xdebugger.evaluate/0.0.1366.738@0.0.1366.738" timestamp="1586610112340" />
+    <state x="463" y="90" key="FileChooserDialogImpl" timestamp="1587115120404">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="90" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1587115120404" />
+    <state x="62" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1586697306588">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="62" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1366.738@0.0.1366.738" timestamp="1586697306588" />
+    <state width="1323" height="205" key="GridCell.Tab.0.bottom" timestamp="1587122163749">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587122163749" />
+    <state width="1323" height="205" key="GridCell.Tab.0.center" timestamp="1587122163749">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587122163749" />
+    <state width="1323" height="205" key="GridCell.Tab.0.left" timestamp="1587122163749">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587122163749" />
+    <state width="1323" height="205" key="GridCell.Tab.0.right" timestamp="1587122163749">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587122163749" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1586689590740">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586689590740" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1586689590740">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1586689590740" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1586689590740">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1586689590740" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1586689590740">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1586689590740" />
+    <state x="350" y="75" key="NewModule_or_Project.wizard" timestamp="1587115122444">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="350" y="75" key="NewModule_or_Project.wizard/0.0.1366.738@0.0.1366.738" timestamp="1587115122444" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1586515107505">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586515107505" />
+    <state width="691" height="377" key="XDebugger.FullValuePopup" timestamp="1586509342257">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="691" height="377" key="XDebugger.FullValuePopup/0.0.1366.738@0.0.1366.738" timestamp="1586509342257" />
+    <state x="391" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1585991815227">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1585991815227" />
+    <state x="390" y="125" width="586" height="488" key="find.popup" timestamp="1587121282754">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="125" width="586" height="488" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1587121282754" />
+    <state x="435" y="300" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1585994128918">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="435" y="300" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1585994128918" />
+    <state x="391" y="4" key="refactoring.ChangeSignatureDialog" timestamp="1587037921251">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="4" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1587037921251" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1586100696722">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1586100696722" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1587119660556">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1587119660556" />
+  </component>
+</project>

@@ -1,0 +1,212 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "page": {
+      "type": "integer"
+    },
+    "per_page": {
+      "type": "integer"
+    },
+    "total": {
+      "type": "integer"
+    },
+    "total_pages": {
+      "type": "integer"
+    },
+    "data": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            },
+            "color": {
+              "type": "string"
+            },
+            "pantone_value": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "year",
+            "color",
+            "pantone_value"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            },
+            "color": {
+              "type": "string"
+            },
+            "pantone_value": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "year",
+            "color",
+            "pantone_value"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            },
+            "color": {
+              "type": "string"
+            },
+            "pantone_value": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "year",
+            "color",
+            "pantone_value"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            },
+            "color": {
+              "type": "string"
+            },
+            "pantone_value": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "year",
+            "color",
+            "pantone_value"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            },
+            "color": {
+              "type": "string"
+            },
+            "pantone_value": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "year",
+            "color",
+            "pantone_value"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer"
+            },
+            "color": {
+              "type": "string"
+            },
+            "pantone_value": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "year",
+            "color",
+            "pantone_value"
+          ]
+        }
+      ]
+    },
+    "ad": {
+      "type": "object",
+      "properties": {
+        "company": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "text": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "company",
+        "url",
+        "text"
+      ]
+    }
+  },
+  "required": [
+    "page",
+    "per_page",
+    "total",
+    "total_pages",
+    "data",
+    "ad"
+  ]
+}
